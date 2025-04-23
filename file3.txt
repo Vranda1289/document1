@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 change from root branch
+=======
+New file
+>>>>>>> feature
